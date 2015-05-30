@@ -8,4 +8,4 @@ rm(list = ls())
 
 
 ## The following line sets up the resource path. This points to the directory for storing input data.
-resource_path <- "~/Documents/Resources/Assignment-1-R-Programming"
+resource_path <- "~/Resources/Assignment-1-R-Programming"
