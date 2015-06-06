@@ -1,4 +1,4 @@
-## This script readsthe data for the first monitoring station into the variable file_content_1
+## This script reads the data for the first monitoring station into a data frame variable 
 
 ## Create the path to the file with the first monitoring station data and 
 ## assigns this to filepath_1. It bases this on the file path to the resources directory for this project
