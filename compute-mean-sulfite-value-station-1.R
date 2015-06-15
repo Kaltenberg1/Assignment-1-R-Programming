@@ -1,4 +1,6 @@
-## This script prints the average sulphite value for the data frame 
+## This script reads the data for the first monitoring station into a data frame variable
+## and then prints the average sulphite value for that data frame 
+
 ## note the difference between printing and computing a value - 
 ## only the latter stores that value in a variable that can be accessed by a script
 
